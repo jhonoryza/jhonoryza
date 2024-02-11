@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I developed some open-source project in here, some of them php library or a mobile or desktop apps. 
+I developed some open-source project in here, some of them php library, mobile or desktop apps. 
 
 On its own, open-source doesn't pay the bills. 
 
