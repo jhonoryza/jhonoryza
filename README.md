@@ -21,9 +21,12 @@ On its own, open-source doesn't pay the bills.
 ### android apps
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
-### laravel apps
+### docker
 - [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)
+
+### laravel apps
 - [Laravel Blog Markdown](https://github.com/jhonoryza/laravel-blog-markdown)
+- [Laravel Blog Filament](https://github.com/jhonoryza/laravel-filament-blog)
 
 ### sveltekit apps
 - [Sveltekit Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)
