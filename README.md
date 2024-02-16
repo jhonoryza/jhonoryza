@@ -2,7 +2,7 @@
 
 I developed some open-source project in here, some of them php library, mobile or desktop apps. 
 
-On its own, open-source doesn't pay the bills. 
+On its own, open-source doesn't pay the bills. so it really helpfull if you give me a 🤝 [support](https://github.com/sponsors/jhonoryza/dashboard)
 
 ## 📦My main projects:
 
@@ -19,17 +19,17 @@ On its own, open-source doesn't pay the bills.
 ### documentation library
 - [Filament suitcms plugin docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
 
-### android apps
+### android project app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
 ### docker
 - [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)
 
-### laravel apps
+### laravel project app
 - [Laravel Blog Markdown](https://github.com/jhonoryza/laravel-blog-markdown)
 - [Laravel Blog Filament](https://github.com/jhonoryza/laravel-filament-blog)
 
-### sveltekit apps
+### sveltekit project app
 - [Sveltekit Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)
 - [Sveltekit youtube blog](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial)
 - [Sveltekit todoapps api](https://github.com/jhonoryza/sveltekit-todoapps-api)
