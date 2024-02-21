@@ -22,8 +22,9 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 ### android project app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
-### docker
+### devops
 - [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)
+- [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment)
 
 ### laravel project app
 - [Laravel Blog Markdown](https://github.com/jhonoryza/laravel-blog-markdown)
