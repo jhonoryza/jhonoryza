@@ -41,6 +41,7 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 ### findme
 - [blog](https://fajar.labkita.my.id/)
 - [twitter](https://twitter.com/jardik7)
+- [linkedin](https://www.linkedin.com/in/fajar-sidik-priatna-8b31a788/)
 - [youtube](https://www.youtube.com/channel/UCwHy_Tkd7yc_24XlsTrnrNA)
 - [google apps](https://play.google.com/store/apps/dev?id=9101982290652990628)
 
