@@ -25,6 +25,7 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 ### devops
 - [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)
 - [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment)
+- [dns over https](https://github.com/jhonoryza/dns-over-https-docker)
 
 ### laravel project app
 - [Laravel Blog Markdown](https://github.com/jhonoryza/laravel-blog-markdown)
