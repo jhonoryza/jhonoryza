@@ -21,7 +21,7 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 
 ### template docs
 - [template docs vitepress](https://github.com/jhonoryza/template-docs-vitepress)
-- [template docs nuxt](git@github.com:jhonoryza/template-docs.git)
+- [template docs nuxt](https://github.com/jhonoryza/template-docs.git)
 
 ### android project app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
