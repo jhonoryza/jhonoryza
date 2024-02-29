@@ -17,10 +17,11 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 - [micro php framework](https://github.com/jhonoryza/bandung-framework)
 
 ### documentation library
-- [Filament suitcms plugin docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
+- [filament suitcms plugin docs - nextra](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
 
 ### template docs
 - [template docs vitepress](https://github.com/jhonoryza/template-docs-vitepress)
+- [template docs nuxt](git@github.com:jhonoryza/template-docs.git)
 
 ### android project app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
