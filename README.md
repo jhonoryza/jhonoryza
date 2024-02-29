@@ -19,6 +19,9 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 ### documentation library
 - [Filament suitcms plugin docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
 
+### template docs
+- [template docs vitepress](https://github.com/jhonoryza/template-docs-vitepress)
+
 ### android project app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
