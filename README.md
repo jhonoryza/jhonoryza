@@ -7,7 +7,7 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 ## 📦My main projects:
 
 ### desktop apps
-- [Logesk apps](https://github.com/jhonoryza/logdesk)
+- [Logdesk apps](https://github.com/jhonoryza/logdesk)
 
 ### php library
 - [Laravel Logdesk](https://github.com/jhonoryza/laravel-logdesk)
