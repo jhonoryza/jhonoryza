@@ -10,6 +10,7 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 - [Logdesk apps](https://github.com/jhonoryza/logdesk)
 
 ### php library
+- [Laravel Quran](https://github.com/jhonoryza/laravel-quran)
 - [Laravel Prayertime](https://github.com/jhonoryza/laravel-prayertime)
 - [Laravel Logdesk](https://github.com/jhonoryza/laravel-logdesk)
 - [Filament suitcms plugin](https://github.com/jhonoryza/filament-suitcms-plugin)
