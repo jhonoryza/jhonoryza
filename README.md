@@ -37,6 +37,7 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 ### laravel project app
 - [Laravel Blog Markdown](https://github.com/jhonoryza/laravel-blog-markdown)
 - [Laravel Blog Filament](https://github.com/jhonoryza/laravel-filament-blog)
+- [Laravel Daisy UI skeleton app](https://github.com/jhonoryza/daisyui-admin-panel)
 
 ### sveltekit project app
 - [Sveltekit Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)
