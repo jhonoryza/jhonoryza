@@ -9,7 +9,8 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 ### desktop apps
 - [Logdesk apps](https://github.com/jhonoryza/logdesk)
 
-### php library
+### php / laravel library
+- [Laravel Recaptcha v3](https://github.com/jhonoryza/recaptcha-v3/tree/main)
 - [Laravel Quran](https://github.com/jhonoryza/laravel-quran)
 - [Laravel Prayertime](https://github.com/jhonoryza/laravel-prayertime)
 - [Laravel Logdesk](https://github.com/jhonoryza/laravel-logdesk)
