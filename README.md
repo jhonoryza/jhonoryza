@@ -10,6 +10,7 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 - [Logdesk apps](https://github.com/jhonoryza/logdesk)
 
 ### php / laravel library
+- [Laravel Filament Simple Role and Permission](https://github.com/jhonoryza/filament-simple-role-permission)
 - [Laravel Vien](https://github.com/jhonoryza/laravel-vien)
 - [Laravel Recaptcha v3](https://github.com/jhonoryza/recaptcha-v3/tree/main)
 - [Laravel Quran](https://github.com/jhonoryza/laravel-quran)
