@@ -32,29 +32,29 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
 ### laravel library
-- [Laravel Filament Simple Role and Permission](https://github.com/jhonoryza/filament-simple-role-permission)
-- [Laravel Vien](https://github.com/jhonoryza/laravel-vien)
-- [Laravel Recaptcha v3](https://github.com/jhonoryza/recaptcha-v3/tree/main)
-- [Laravel Quran](https://github.com/jhonoryza/laravel-quran)
-- [Laravel Prayertime](https://github.com/jhonoryza/laravel-prayertime)
-- [Laravel Logdesk](https://github.com/jhonoryza/laravel-logdesk)
-- [Filament suitcms plugin](https://github.com/jhonoryza/filament-suitcms-plugin)
-- [Laravel Fileupload Livewire Component](https://github.com/jhonoryza/laravel-fileupload-component)
-- [Laravel Argotunnel](https://github.com/jhonoryza/argotunnel-laravel)
+- [Laravel Filament Simple Role and Permission](https://github.com/jhonoryza/filament-simple-role-permission) filament resources scaffolding for simple role and permission
+- [Laravel Vien](https://github.com/jhonoryza/laravel-vien) vue component scaffolding for inertia vue stack
+- [Laravel Recaptcha v3](https://github.com/jhonoryza/recaptcha-v3/tree/main) 
+- [Laravel Quran](https://github.com/jhonoryza/laravel-quran) integration with kemenag api
+- [Laravel Prayertime](https://github.com/jhonoryza/laravel-prayertime) integration with kemenag api and manual calculation
+- [Laravel Logdesk](https://github.com/jhonoryza/laravel-logdesk) debugger tools use with logdesk app
+- [Filament suitcms plugin](https://github.com/jhonoryza/filament-suitcms-plugin) filament plugin provide some filament resources (spatie role/permission, setting, seometa and admin)
+- [Laravel Fileupload Livewire Component](https://github.com/jhonoryza/laravel-fileupload-component) livewire component for fileupload using spatie medialibrary
+- [Laravel Argotunnel](https://github.com/jhonoryza/argotunnel-laravel) integrate tcp connection with cloudflare zero trust networks
 
 ### php library
-- [micro php framework](https://github.com/jhonoryza/bandung-framework)
+- [micro php framework](https://github.com/jhonoryza/bandung-framework) learning to build micro php framework, not done yet
 
 ### doc library
 - [filament suitcms plugin docs - nextra](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
 
-### template docs
+### template skeleton docs
 - [template docs vitepress](https://github.com/jhonoryza/template-docs-vitepress)
 - [template docs nuxt](https://github.com/jhonoryza/template-docs.git)
 
 ### devops
-- [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)
-- [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment)
+- [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel) 
+- [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment) some ansible configuration for my home server to deploy some app
 - [dns over https](https://github.com/jhonoryza/dns-over-https-docker)
 - [dns manager bind9](https://github.com/jhonoryza/bind9-docker)
 
@@ -62,8 +62,8 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 - [Laravel Daisy UI skeleton app](https://github.com/jhonoryza/daisyui-admin-panel)
 
 ### sveltekit project app
-- [Sveltekit Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)
-- [Sveltekit todoapps api](https://github.com/jhonoryza/sveltekit-todoapps-api)
+- [frontend Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid) source data: from 3rd party api
+- [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api) contoh project monolith menggunakan sveltekit
 
 ### opencore efi
 - [EFI opencore asrock h410m](https://github.com/jhonoryza/efi-opencore-asrock-h410m-i3-10100)
