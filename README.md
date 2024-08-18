@@ -25,6 +25,9 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 - [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown) source data: file markdown
 - [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) source data: file markdown
 
+### landing page
+- [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage) landing page [labkita.my.id](https://labkita.my.id)
+
 ### desktop app
 - [Logdesk](https://github.com/jhonoryza/logdesk)
 
