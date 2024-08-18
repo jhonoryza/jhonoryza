@@ -1,8 +1,19 @@
 # Hi there 👋
 
-I developed some open-source project in here, some of them php library, mobile or desktop apps. 
+I'm a full-stack web developer and author living near Bandung, Indonesia.
 
-On its own, open-source doesn't pay the bills. so it really helpfull if you give me a 🤝 [support](https://github.com/sponsors/jhonoryza/dashboard)
+My tech summary experience
+
+- backend: laravel, nestjs and golang.
+- frontend: svelte and vue.
+- deployment: ansible and docker stuff.
+- cloud: aws, google cloud, alibaba cloud, oracle cloud and linode.
+
+I also work as a freelance. I'm happy talking both technology and business, and can help you with application development and deployment. If you're interested in working together you can find out more here.
+
+Beyond that, I developed some open-source project in github, If you've got any questions, suggestions, or would like to discuss a project then please email me or get in touch on any of the platforms below. I'd be happy to hear from you.
+
+thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 
 ## 📦My main projects:
 
