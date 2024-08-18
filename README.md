@@ -6,10 +6,21 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 
 ## 📦My main projects:
 
+### personal blog
+- [frontend nuxtjs ssr](https://github.com/jhonoryza/nuxt-blog)
+- [frontend vuejs spa](https://github.com/jhonoryza/vue-blog)
+- [backend golang restapi](https://github.com/jhonoryza/golang-blog-api) source data: database postgres
+- [monolith laravel livewire filament](https://github.com/jhonoryza/laravel-filament-blog) source data: database postgres
+- [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown) source data: file markdown
+- [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) source data: file markdown
+
 ### desktop apps
 - [Logdesk apps](https://github.com/jhonoryza/logdesk)
 
-### php / laravel library
+### android project app
+- [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
+
+### laravel library
 - [Laravel Filament Simple Role and Permission](https://github.com/jhonoryza/filament-simple-role-permission)
 - [Laravel Vien](https://github.com/jhonoryza/laravel-vien)
 - [Laravel Recaptcha v3](https://github.com/jhonoryza/recaptcha-v3/tree/main)
@@ -19,17 +30,16 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 - [Filament suitcms plugin](https://github.com/jhonoryza/filament-suitcms-plugin)
 - [Laravel Fileupload Livewire Component](https://github.com/jhonoryza/laravel-fileupload-component)
 - [Laravel Argotunnel](https://github.com/jhonoryza/argotunnel-laravel)
+
+### php library
 - [micro php framework](https://github.com/jhonoryza/bandung-framework)
 
-### documentation library
+### doc library
 - [filament suitcms plugin docs - nextra](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
 
 ### template docs
 - [template docs vitepress](https://github.com/jhonoryza/template-docs-vitepress)
 - [template docs nuxt](https://github.com/jhonoryza/template-docs.git)
-
-### android project app
-- [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
 ### devops
 - [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)
@@ -37,14 +47,11 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 - [dns over https](https://github.com/jhonoryza/dns-over-https-docker)
 - [dns manager bind9](https://github.com/jhonoryza/bind9-docker)
 
-### laravel project app
-- [Laravel Blog Markdown](https://github.com/jhonoryza/laravel-blog-markdown)
-- [Laravel Blog Filament](https://github.com/jhonoryza/laravel-filament-blog)
+### laravel skeleton app
 - [Laravel Daisy UI skeleton app](https://github.com/jhonoryza/daisyui-admin-panel)
 
 ### sveltekit project app
 - [Sveltekit Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)
-- [Sveltekit youtube blog](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial)
 - [Sveltekit todoapps api](https://github.com/jhonoryza/sveltekit-todoapps-api)
 
 ### opencore efi
