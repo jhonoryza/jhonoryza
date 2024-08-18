@@ -14,10 +14,10 @@ On its own, open-source doesn't pay the bills. so it really helpfull if you give
 - [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown) source data: file markdown
 - [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) source data: file markdown
 
-### desktop apps
-- [Logdesk apps](https://github.com/jhonoryza/logdesk)
+### desktop app
+- [Logdesk](https://github.com/jhonoryza/logdesk)
 
-### android project app
+### flutter project app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
 ### laravel library
