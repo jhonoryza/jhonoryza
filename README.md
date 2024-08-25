@@ -34,7 +34,10 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 ### flutter project app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
-### laravel library
+### go package
+- [Inertia Fiber Adapter](https://github.com/jhonoryza/inertia-fiber)
+
+### laravel package
 - [Laravel Filament Simple Role and Permission](https://github.com/jhonoryza/filament-simple-role-permission) filament resources scaffolding for simple role and permission
 - [Laravel Vien](https://github.com/jhonoryza/laravel-vien) vue component scaffolding for inertia vue stack
 - [Laravel Recaptcha v3](https://github.com/jhonoryza/recaptcha-v3/tree/main) 
@@ -45,10 +48,10 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 - [Laravel Fileupload Livewire Component](https://github.com/jhonoryza/laravel-fileupload-component) livewire component for fileupload using spatie medialibrary
 - [Laravel Argotunnel](https://github.com/jhonoryza/argotunnel-laravel) integrate tcp connection with cloudflare zero trust networks
 
-### php library
+### php package
 - [micro php framework](https://github.com/jhonoryza/bandung-framework) learning to build micro php framework, not done yet
 
-### doc library
+### package documentation
 - [filament suitcms plugin docs - nextra](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
 
 ### template skeleton docs
