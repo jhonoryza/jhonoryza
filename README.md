@@ -15,6 +15,8 @@ Beyond that, I developed some open-source project in github, If you've got any q
 
 thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 
+![stats](https://github-readme-stats.vercel.app/api?username=jhonoryza&count_private=true&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonoryza&layout=compact)
 ## 📦My main projects:
 
 ### personal blog
@@ -80,5 +82,3 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 - [linkedin](https://www.linkedin.com/in/fajar-sidik-priatna-8b31a788/)
 - [youtube](https://www.youtube.com/channel/UCwHy_Tkd7yc_24XlsTrnrNA)
 - [google apps](https://play.google.com/store/apps/dev?id=9101982290652990628)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonoryza&layout=compact)
