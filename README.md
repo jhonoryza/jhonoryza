@@ -6,6 +6,7 @@ My tech summary experience
 
 - backend: laravel, nestjs and golang.
 - frontend: svelte and vue.
+- database: mysql, postgres, redis
 - deployment: ansible and docker stuff.
 - cloud: aws, google cloud, alibaba cloud, oracle cloud and linode.
 
@@ -17,23 +18,32 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jhonoryza&count_private=true&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonoryza&layout=compact)
-## 📦My main projects:
+
+## 📦 projects:
+
+### portfolio
+- [my journey](https://rb.gy/uy8nj0)
 
 ### personal blog
+
+#### source data: postgres database
 - [frontend nuxtjs ssr](https://github.com/jhonoryza/nuxt-blog)
 - [frontend vuejs spa](https://github.com/jhonoryza/vue-blog)
-- [backend golang restapi](https://github.com/jhonoryza/golang-blog-api) source data: database postgres
-- [monolith laravel livewire filament](https://github.com/jhonoryza/laravel-filament-blog) source data: database postgres
-- [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown) source data: file markdown
-- [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) source data: file markdown
+- [backend golang restapi](https://github.com/jhonoryza/golang-blog-api)
+- [monolith laravel livewire filament](https://github.com/jhonoryza/laravel-filament-blog)
+- [WIP: monolith golang fiber inertia vue](https://github.com/jhonoryza/inertia-fiber)
 
-### landing page
+#### source data: markdown
+- [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown)
+- [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial)
+
+#### landing page
 - [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage) landing page [labkita.my.id](https://labkita.my.id)
 
 ### desktop app
 - [Logdesk](https://github.com/jhonoryza/logdesk)
 
-### flutter project app
+### flutter app
 - [Alquran terjemahan indonesia](https://github.com/jhonoryza/flutter_labkita_alquran)
 
 ### go package
