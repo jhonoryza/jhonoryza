@@ -31,7 +31,7 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 - [frontend vuejs spa](https://github.com/jhonoryza/vue-blog)
 - [backend golang restapi](https://github.com/jhonoryza/golang-blog-api)
 - [monolith laravel livewire filament](https://github.com/jhonoryza/laravel-filament-blog)
-- [WIP: monolith golang fiber inertia vue](https://github.com/jhonoryza/inertia-fiber)
+- [WIP: monolith golang fiber inertia vue](https://github.com/jhonoryza/golang-fiber-blog-api)
 
 #### source data: markdown
 - [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown)
