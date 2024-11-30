@@ -86,6 +86,9 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 ### opencore efi
 - [EFI opencore asrock h410m](https://github.com/jhonoryza/efi-opencore-asrock-h410m-i3-10100)
 
+### my notes
+- [https://github.com/jhonoryza/markdown-notes](https://github.com/jhonoryza/markdown-notes)
+
 ### findme
 - [blog](https://fajar.labkita.my.id/)
 - [twitter](https://twitter.com/jardik7)
