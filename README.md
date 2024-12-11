@@ -22,12 +22,13 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 | [golang blog api](https://github.com/jhonoryza/golang-blog-api)                    | backend for personal blog                      | go       | postgres                      |
 | [monolith laravel blog](https://github.com/jhonoryza/laravel-filament-blog)        | monolith for personal blog                     | php      | laravel, filament, postgres   |
 | [monolith golang blog](https://github.com/jhonoryza/golang-fiber-blog-api)         | monolith for personal blog                     | go       | fiber, inertia, vue, postgres |
-| [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage)         | personal landing page                          | js       | svelte                        |
+| [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage)         | for personal landing page                      | js       | svelte                        |
 | [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown)    | monolith for personal blog                     | php      | laravel, livewire, markdown   |
 | [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) | monolith for personal blog                     | js       | sveltekit, markdown           |
-| [frontend Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)        | source data: from 3rd party api                | js       | vue                           |
-| [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | contoh project monolith menggunakan sveltekit  | js       | sveltekit, mysql              |
-| [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | skeleton app                                   | php      | laravel                       |
+| [frontend Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)        | example frontend for persis.or.id              | js       | vue                           |
+| [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | example app monolith with sveltekit            | js       | sveltekit, mysql              |
+| [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui        | php      | laravel                       |
+| [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs         | js       | deno, nestjs                  |
 
 ### 🖥️ apps
 
