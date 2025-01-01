@@ -78,6 +78,7 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 | name      | link                                                                 |
 | --------- | -------------------------------------------------------------------- |
 | blog      | [url](https://fajar.labkita.my.id/)                                  |
+| dev.to    | [url](https://dev.to/jhonoryza)                                      |
 | twitter   | [url](https://twitter.com/jardik7)                                   |
 | linkedin  | [url](https://www.linkedin.com/in/fajar-sidik-priatna-8b31a788/)     |
 | youtube   | [url](https://www.youtube.com/channel/UCwHy_Tkd7yc_24XlsTrnrNA)      |
