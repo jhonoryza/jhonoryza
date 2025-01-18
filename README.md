@@ -67,6 +67,7 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 | name                                                                                         | description                                   |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [personal note about tech](https://github.com/jhonoryza/markdown-notes)                      | in markdown format                            |
+| [personal nvim config](https://github.com/jhonoryza/nvim)                                    | nvim config                                   |
 | [EFI opencore asrock h410m](https://github.com/jhonoryza/efi-opencore-asrock-h410m-i3-10100) | hackintosh efi files                          |
 | [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)                    | docker image                                  |
 | [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment)              | some ansible configuration for my home server |
