@@ -34,6 +34,7 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 
 | name                                                            | description     | language | platform |
 | --------------------------------------------------------------- | --------------- | -------- | -------- |
+| [Tinker Laravel](https://github.com/jhonoryza/tinker-laravel)   | tinker app      | rust, js | desktop  |
 | [Reprox](https://github.com/jhonoryza/reprox)                   | tunneling tools | go       | cmdline  |
 | [Alquran](https://github.com/jhonoryza/flutter_labkita_alquran) | alquran         | flutter  | android  |
 | [Logdesk](https://github.com/jhonoryza/logdesk)                 | debugger tools  | electron | desktop  |
