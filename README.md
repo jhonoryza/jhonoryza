@@ -30,6 +30,7 @@ thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
 | [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui        | php      | laravel                       |
 | [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs         | js       | deno, nestjs                  |
 | [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                      | bash     | shell                         |
+| [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                           | bash     | shell                         |
 
 ### 🖥️ apps
 
