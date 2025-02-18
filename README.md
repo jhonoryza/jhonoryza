@@ -10,7 +10,7 @@ Beyond that, I developed some open-source project in github, If you've got any
 questions, suggestions, or would like to discuss a project then please email me
 or get in touch on any of the platforms below. I'd be happy to hear from you.
 
-thanks for the [support](https://github.com/sponsors/jhonoryza/dashboard)🤝
+thanks for the [support](https://github.com/sponsors/jhonoryza)🤝
 
 ### 🔧 projects:
 
