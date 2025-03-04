@@ -12,27 +12,9 @@ or get in touch on any of the platforms below. I'd be happy to hear from you.
 
 thanks for the [support](https://github.com/sponsors/jhonoryza)🤝
 
-### 🔧 projects:
+here is my [portofio]([https://rb.gy/uy8nj0](https://labkita.my.id/engineers/1)) 
 
-| name                                                                               | description                                    | language | stack                         |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------- | -------- | ----------------------------- |
-| [portofio](https://rb.gy/uy8nj0)                                                   | a collection of projects that I have worked on | mix      | mix                           |
-| [nuxt blog](https://github.com/jhonoryza/nuxt-blog)                                | frontend for personal blog                     | js       | nuxt                          |
-| [vue blog](https://github.com/jhonoryza/vue-blog)                                  | frontend for personal blog                     | js       | vue                           |
-| [golang blog api](https://github.com/jhonoryza/golang-blog-api)                    | backend for personal blog                      | go       | postgres                      |
-| [monolith laravel blog](https://github.com/jhonoryza/laravel-filament-blog)        | monolith for personal blog                     | php      | laravel, filament, postgres   |
-| [monolith golang blog](https://github.com/jhonoryza/golang-fiber-blog-api)         | monolith for personal blog                     | go       | fiber, inertia, vue, postgres |
-| [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage)         | for personal landing page                      | js       | svelte                        |
-| [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown)    | monolith for personal blog                     | php      | laravel, livewire, markdown   |
-| [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) | monolith for personal blog                     | js       | sveltekit, markdown           |
-| [frontend Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)        | example frontend for persis.or.id              | js       | vue                           |
-| [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | example app monolith with sveltekit            | js       | sveltekit, mysql              |
-| [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui        | php      | laravel                       |
-| [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs         | js       | deno, nestjs                  |
-| [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                      | bash     | shell                         |
-| [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                           | bash     | shell                         |
-
-### 🖥️ apps
+### 🖥️ products
 
 | name                                                            | description     | language | platform |
 | --------------------------------------------------------------- | --------------- | -------- | -------- |
@@ -76,6 +58,26 @@ thanks for the [support](https://github.com/sponsors/jhonoryza)🤝
 | [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment)              | some ansible configuration for my home server |
 | [dns over https](https://github.com/jhonoryza/dns-over-https-docker)                         | docker compose config for dooh                |
 | [dns manager bind9](https://github.com/jhonoryza/bind9-docker)                               | docker compose config for bind9               |
+
+### 🔧 my hobby projects:
+
+| name                                                                               | description                                    | language | stack                         |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------- | -------- | ----------------------------- |
+| [portofio]([https://rb.gy/uy8nj0](https://labkita.my.id/engineers/1))              | a collection of projects that I have worked on | mix      | mix                           |
+| [nuxt blog](https://github.com/jhonoryza/nuxt-blog)                                | frontend for personal blog                     | js       | nuxt                          |
+| [vue blog](https://github.com/jhonoryza/vue-blog)                                  | frontend for personal blog                     | js       | vue                           |
+| [golang blog api](https://github.com/jhonoryza/golang-blog-api)                    | backend for personal blog                      | go       | postgres                      |
+| [monolith laravel blog](https://github.com/jhonoryza/laravel-filament-blog)        | monolith for personal blog                     | php      | laravel, filament, postgres   |
+| [monolith golang blog](https://github.com/jhonoryza/golang-fiber-blog-api)         | monolith for personal blog                     | go       | fiber, inertia, vue, postgres |
+| [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage)         | for personal landing page                      | js       | svelte                        |
+| [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown)    | monolith for personal blog                     | php      | laravel, livewire, markdown   |
+| [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) | monolith for personal blog                     | js       | sveltekit, markdown           |
+| [frontend Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)        | example frontend for persis.or.id              | js       | vue                           |
+| [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | example app monolith with sveltekit            | js       | sveltekit, mysql              |
+| [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui        | php      | laravel                       |
+| [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs         | js       | deno, nestjs                  |
+| [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                      | bash     | shell                         |
+| [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                           | bash     | shell                         |
 
 ### 🔎 findme
 
