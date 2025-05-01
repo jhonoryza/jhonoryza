@@ -12,7 +12,7 @@ or get in touch on any of the platforms below. I'd be happy to hear from you.
 
 thanks for the [support](https://github.com/sponsors/jhonoryza)🤝
 
-here is my [portofio](https://labkita.my.id/engineers/1) 
+here is my [portofio](https://labkita.my.id/engineers) 
 
 ### 🖥️ products
 
