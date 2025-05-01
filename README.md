@@ -63,7 +63,8 @@ here is my [portofio](https://labkita.my.id/engineers)
 
 | name                                                                               | description                                    | language | stack                         |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------- | -------- | ----------------------------- |
-| [portofio]([https://rb.gy/uy8nj0](https://labkita.my.id/engineers/1))              | a collection of projects that I have worked on | mix      | mix                           |
+| [portofio](https://labkita.my.id/engineers)                                        | a collection of projects that I have worked on | mix      | mix                           |
+| [react labkita web](https://github.com/jhonoryza/nextjs-labkita-web)               | frontend for labkita web                       | js       | react nextjs                  |
 | [nuxt blog](https://github.com/jhonoryza/nuxt-blog)                                | frontend for personal blog                     | js       | nuxt                          |
 | [vue blog](https://github.com/jhonoryza/vue-blog)                                  | frontend for personal blog                     | js       | vue                           |
 | [golang blog api](https://github.com/jhonoryza/golang-blog-api)                    | backend for personal blog                      | go       | postgres                      |
