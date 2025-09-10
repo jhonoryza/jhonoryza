@@ -27,7 +27,8 @@ here is my [portofio](https://labkita.my.id/engineers)
 
 | name                                                                                       | description                                         | language | stack                 |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------- | -------- | --------------------- |
-| [DB Logger](https://github.com/jhonoryza/laravel-database-logger)                          | Laravel Database Logger                             | php      | laravel               |
+| [Model History](https://github.com/jhonoryza/laravel-model-history)                        | Laravel Model History                               | php      | laravel               |
+| [Database Logger](https://github.com/jhonoryza/laravel-database-logger)                    | Laravel Database Logger                             | php      | laravel               |
 | [Inertia Builder](https://github.com/jhonoryza/laravel-inertia-builder)                    | Laravel Inertia Builder                             | php      | laravel               |
 | [Import Tables](https://github.com/jhonoryza/laravel-import-tables)                        | Import Tracker                                      | php      | laravel               |
 | [Inertia Fiber](https://github.com/jhonoryza/inertia-fiber)                                | Inertia Fiber Adapter                               | go       | -                     |
