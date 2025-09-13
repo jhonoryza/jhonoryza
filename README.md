@@ -43,13 +43,27 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [micro php framework](https://github.com/jhonoryza/bandung-framework)                      | learning to build micro php framework, not done yet | php      | -                     |
 | [Argotunnel](https://github.com/jhonoryza/argotunnel-laravel)                              | integrate tcp connection with cloudflare zero trust | php      | laravel               |
 
-### 📚 docs app
+### 🔧 my hobby projects:
 
-| name                                                                  | description                 | language | stack     |
-| --------------------------------------------------------------------- | --------------------------- | -------- | --------- |
-| [docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)     | for filament suitcms plugin | js       | nextra    |
-| [skeleton docs](https://github.com/jhonoryza/template-docs-vitepress) | skeleton doc                | js       | vitepress |
-| [skeleton docs](https://github.com/jhonoryza/template-docs.git)       | skeleton doc                | js       | nuxt      |
+| name                                                                               | description                                        | language | stack                         |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ----------------------------- |
+| [go chat mercurehub](https://github.com/jhonoryza/go-chat-mercurehub)              | go api to receive send chat and publish to mercure | go       | go                            |
+| [portofio](https://labkita.my.id/engineers)                                        | a collection of projects that I have worked on     | mix      | mix                           |
+| [react labkita web](https://github.com/jhonoryza/nextjs-labkita-web)               | frontend for labkita web                           | js       | react nextjs                  |
+| [nuxt blog](https://github.com/jhonoryza/nuxt-blog)                                | frontend for personal blog                         | js       | nuxt                          |
+| [vue blog](https://github.com/jhonoryza/vue-blog)                                  | frontend for personal blog                         | js       | vue                           |
+| [golang blog api](https://github.com/jhonoryza/golang-blog-api)                    | backend for personal blog                          | go       | postgres                      |
+| [monolith laravel blog](https://github.com/jhonoryza/laravel-filament-blog)        | monolith for personal blog                         | php      | laravel, filament, postgres   |
+| [monolith golang blog](https://github.com/jhonoryza/golang-fiber-blog-api)         | monolith for personal blog                         | go       | fiber, inertia, vue, postgres |
+| [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage)         | for personal landing page                          | js       | svelte                        |
+| [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown)    | monolith for personal blog                         | php      | laravel, livewire, markdown   |
+| [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) | monolith for personal blog                         | js       | sveltekit, markdown           |
+| [frontend Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)        | example frontend for persis.or.id                  | js       | vue                           |
+| [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | example app monolith with sveltekit                | js       | sveltekit, mysql              |
+| [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui            | php      | laravel                       |
+| [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs             | js       | deno, nestjs                  |
+| [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                          | bash     | shell                         |
+| [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                               | bash     | shell                         |
 
 ### 📘 notes
 
@@ -63,26 +77,13 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [dns over https](https://github.com/jhonoryza/dns-over-https-docker)                         | docker compose config for dooh                |
 | [dns manager bind9](https://github.com/jhonoryza/bind9-docker)                               | docker compose config for bind9               |
 
-### 🔧 my hobby projects:
+### 📚 docs
 
-| name                                                                               | description                                    | language | stack                         |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------- | -------- | ----------------------------- |
-| [portofio](https://labkita.my.id/engineers)                                        | a collection of projects that I have worked on | mix      | mix                           |
-| [react labkita web](https://github.com/jhonoryza/nextjs-labkita-web)               | frontend for labkita web                       | js       | react nextjs                  |
-| [nuxt blog](https://github.com/jhonoryza/nuxt-blog)                                | frontend for personal blog                     | js       | nuxt                          |
-| [vue blog](https://github.com/jhonoryza/vue-blog)                                  | frontend for personal blog                     | js       | vue                           |
-| [golang blog api](https://github.com/jhonoryza/golang-blog-api)                    | backend for personal blog                      | go       | postgres                      |
-| [monolith laravel blog](https://github.com/jhonoryza/laravel-filament-blog)        | monolith for personal blog                     | php      | laravel, filament, postgres   |
-| [monolith golang blog](https://github.com/jhonoryza/golang-fiber-blog-api)         | monolith for personal blog                     | go       | fiber, inertia, vue, postgres |
-| [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage)         | for personal landing page                      | js       | svelte                        |
-| [monolith laravel livewire](https://github.com/jhonoryza/laravel-blog-markdown)    | monolith for personal blog                     | php      | laravel, livewire, markdown   |
-| [monolith sveltekit](https://github.com/jhonoryza/sveltekit-blog-youtube-tutorial) | monolith for personal blog                     | js       | sveltekit, markdown           |
-| [frontend Persis.or.id](https://github.com/jhonoryza/sveltekit-persis-orid)        | example frontend for persis.or.id              | js       | vue                           |
-| [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | example app monolith with sveltekit            | js       | sveltekit, mysql              |
-| [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui        | php      | laravel                       |
-| [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs         | js       | deno, nestjs                  |
-| [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                      | bash     | shell                         |
-| [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                           | bash     | shell                         |
+| name                                                                  | description                 | language | stack     |
+| --------------------------------------------------------------------- | --------------------------- | -------- | --------- |
+| [docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)     | for filament suitcms plugin | js       | nextra    |
+| [skeleton docs](https://github.com/jhonoryza/template-docs-vitepress) | skeleton doc                | js       | vitepress |
+| [skeleton docs](https://github.com/jhonoryza/template-docs.git)       | skeleton doc                | js       | nuxt      |
 
 ### 🔎 findme
 
