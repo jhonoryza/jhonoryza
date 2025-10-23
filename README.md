@@ -68,6 +68,7 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs             | js       | deno, nestjs                  |
 | [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                          | bash     | shell                         |
 | [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                               | bash     | shell                         |
+| [blog api](https://github.com/jhonoryza/swift-vapor-blog-api)                      | swift api blogging with vapor                      | swift    | vapor                         |
 
 ### 📘 notes
 
