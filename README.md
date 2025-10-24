@@ -81,8 +81,8 @@ here is my [portofio](https://labkita.my.id/engineers)
 - [nodejs embedding vector data](https://github.com/jhonoryza/learn-embedding-vector-data-nodejs)
 
 #### google analythic
-- [](https://github.com/jhonoryza/nodejs-google-analythics-test)
-- [](https://github.com/jhonoryza/go-google-analythic-test)
+- [nodejs google analythic](https://github.com/jhonoryza/nodejs-google-analythics-test)
+- [go google analythic](https://github.com/jhonoryza/go-google-analythic-test)
 
 #### desktop app
 - [swift swiftui postmanlike](https://github.com/jhonoryza/swiftui-postmanlike)
