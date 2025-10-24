@@ -22,9 +22,6 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [Reprox](https://github.com/jhonoryza/reprox)                                   | tunneling tools         | go          | cmdline  |
 | [Alquran](https://github.com/jhonoryza/flutter_labkita_alquran)                 | alquran                 | flutter     | android  |
 | [Logdesk](https://github.com/jhonoryza/logdesk)                                 | debugger tools          | electron    | desktop  |
-| [PostmanLike](https://github.com/jhonoryza/swiftui-postmanlike)                 | api tools               | swift       | desktop  |
-| [PostmanLike](https://github.com/jhonoryza/objective-c-postmanlike)             | api tools               | objective-c | desktop  |
-| [Laravel Code Runner](https://github.com/jhonoryza/swiftui-laravel-code-runner) | laravel code runner app | swift       | desktop  |
 
 ### 📦 packages
 
@@ -68,7 +65,34 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs             | js       | deno, nestjs                  |
 | [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                          | bash     | shell                         |
 | [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                               | bash     | shell                         |
-| [blog api](https://github.com/jhonoryza/swift-vapor-blog-api)                      | swift api blogging with vapor                      | swift    | vapor                         |
+
+### learning
+
+#### backend
+- [swift vapor blog rest api](https://github.com/jhonoryza/swift-vapor-blog-api)
+- [rust axum blog rest api](https://github.com/jhonoryza/rust-axum-blog-api)
+- [c libmicrohttpd blog rest api](https://github.com/jhonoryza/c-libmicrohttpd-blog-api)
+- [cplus drogon blog rest api](https://github.com/jhonoryza/cplus-drogon-blog-api)
+- [python fastapi blog rest api](https://github.com/jhonoryza/python-fastapi-blog-api)
+- [kotlin ktor blog rest api](https://github.com/jhonoryza/kotlin-ktor-blog-api)
+- [zig zap blog rest api](https://github.com/jhonoryza/zig-zap-blog-api)
+
+#### AI
+- [nodejs embedding vector data](https://github.com/jhonoryza/learn-embedding-vector-data-nodejs)
+
+#### google analythic
+- [](https://github.com/jhonoryza/nodejs-google-analythics-test)
+- [](https://github.com/jhonoryza/go-google-analythic-test)
+
+#### desktop app
+- [swift swiftui postmanlike](https://github.com/jhonoryza/swiftui-postmanlike)
+- [objective-c postmanlike](https://github.com/jhonoryza/objective-c-postmanlike)
+- [swift swiftui laravel code runner](https://github.com/jhonoryza/swiftui-laravel-code-runner)
+
+
+### slide
+
+- [laravel modern stack](https://github.com/jhonoryza/slide-laravel-modern-stack)
 
 ### 📘 notes
 
