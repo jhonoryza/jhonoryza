@@ -14,7 +14,7 @@ thanks for the [support](https://github.com/sponsors/jhonoryza)🤝
 
 here is my [portofio](https://labkita.my.id/engineers)
 
-### 🖥️ apps
+### app
 
 | name                                                                            | description             | language    | platform |
 | ------------------------------------------------------------------------------- | ----------------------- | ----------- | -------- |
@@ -23,7 +23,7 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [Alquran](https://github.com/jhonoryza/flutter_labkita_alquran)                 | alquran                 | flutter     | android  |
 | [Logdesk](https://github.com/jhonoryza/logdesk)                                 | debugger tools          | electron    | desktop  |
 
-### 📦 packages
+### package
 
 | name                                                                                       | description                                         | language | stack                 |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------- | -------- | --------------------- |
@@ -44,12 +44,11 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [micro php framework](https://github.com/jhonoryza/bandung-framework)                      | learning to build micro php framework, not done yet | php      | -                     |
 | [Argotunnel](https://github.com/jhonoryza/argotunnel-laravel)                              | integrate tcp connection with cloudflare zero trust | php      | laravel               |
 
-### 🔧 hobby:
+### web related:
 
 | name                                                                               | description                                        | language | stack                         |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ----------------------------- |
 | [go chat mercurehub](https://github.com/jhonoryza/go-chat-mercurehub)              | go api to receive send chat and publish to mercure | go       | go                            |
-| [portofio](https://labkita.my.id/engineers)                                        | a collection of projects that I have worked on     | mix      | mix                           |
 | [react labkita web](https://github.com/jhonoryza/nextjs-labkita-web)               | frontend for labkita web                           | js       | react nextjs                  |
 | [nuxt blog](https://github.com/jhonoryza/nuxt-blog)                                | frontend for personal blog                         | js       | nuxt                          |
 | [vue blog](https://github.com/jhonoryza/vue-blog)                                  | frontend for personal blog                         | js       | vue                           |
@@ -63,8 +62,6 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | example app monolith with sveltekit                | js       | sveltekit, mysql              |
 | [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui            | php      | laravel                       |
 | [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs             | js       | deno, nestjs                  |
-| [static binary](https://github.com/jhonoryza/static-binary)                        | learn about static binary                          | bash     | shell                         |
-| [php installer](https://github.com/jhonoryza/php-installer)                        | php installer script                               | bash     | shell                         |
 
 ### learning
 
@@ -89,41 +86,40 @@ here is my [portofio](https://labkita.my.id/engineers)
 - [objective-c postmanlike](https://github.com/jhonoryza/objective-c-postmanlike)
 - [swift swiftui laravel code runner](https://github.com/jhonoryza/swiftui-laravel-code-runner)
 
-
 ### slide
-
 - [laravel modern stack](https://github.com/jhonoryza/slide-laravel-modern-stack)
 
-### 📘 notes
+### tools
+- [lima config](https://github.com/jhonoryza/lima-config)
+- [my minimal nvim config](https://github.com/jhonoryza/nvim)
+- [nodejs my cv generator](https://github.com/jhonoryza/nodejs-cvfajar)
+- [php installer](https://github.com/jhonoryza/php-installer)
+- [static binary](https://github.com/jhonoryza/static-binary)
+- [EFI opencore asrock h410m](https://github.com/jhonoryza/efi-opencore-asrock-h410m-i3-10100)
+- [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment)
+- [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)
+- [dns over https](https://github.com/jhonoryza/dns-over-https-docker)
+- [dns manager bind9](https://github.com/jhonoryza/bind9-docker)
 
-| name                                                                                         | description                                   |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [personal note about tech](https://github.com/jhonoryza/markdown-notes)                      | in markdown format                            |
-| [personal nvim config](https://github.com/jhonoryza/nvim)                                    | nvim config                                   |
-| [EFI opencore asrock h410m](https://github.com/jhonoryza/efi-opencore-asrock-h410m-i3-10100) | hackintosh efi files                          |
-| [Laravel Serversideup](https://github.com/jhonoryza/serversideup-laravel)                    | docker image                                  |
-| [ansible apps deployment](https://github.com/jhonoryza/ansible-apps-deployment)              | some ansible configuration for my home server |
-| [dns over https](https://github.com/jhonoryza/dns-over-https-docker)                         | docker compose config for dooh                |
-| [dns manager bind9](https://github.com/jhonoryza/bind9-docker)                               | docker compose config for bind9               |
+### assignments
+- [stream bridge adapter](https://github.com/jhonoryza/backend-assignments-bridge)
+- [rest api nestjs](https://github.com/jhonoryza/backend-assignments-nestjs)
+
+### 📘 notes
+- [personal note about tech](https://github.com/jhonoryza/markdown-notes)
 
 ### 📚 docs
-
-| name                                                                  | description                 | language | stack     |
-| --------------------------------------------------------------------- | --------------------------- | -------- | --------- |
-| [docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)     | for filament suitcms plugin | js       | nextra    |
-| [skeleton docs](https://github.com/jhonoryza/template-docs-vitepress) | skeleton doc                | js       | vitepress |
-| [skeleton docs](https://github.com/jhonoryza/template-docs.git)       | skeleton doc                | js       | nuxt      |
+- [filament suitcms docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
+- [skeleton docs](https://github.com/jhonoryza/template-docs-vitepress)
+- [skeleton docs](https://github.com/jhonoryza/template-docs.git) 
 
 ### 🔎 findme
-
-| name      | link                                                                 |
-| --------- | -------------------------------------------------------------------- |
-| blog      | [url](https://fajar.labkita.my.id/)                                  |
-| dev.to    | [url](https://dev.to/jhonoryza)                                      |
-| twitter   | [url](https://twitter.com/jardik7)                                   |
-| linkedin  | [url](https://www.linkedin.com/in/fajar-sidik-priatna-8b31a788/)     |
-| youtube   | [url](https://www.youtube.com/channel/UCwHy_Tkd7yc_24XlsTrnrNA)      |
-| playstore | [url](https://play.google.com/store/apps/dev?id=9101982290652990628) |
+- [web](https://www.labkita.my.id/)
+- [dev.to](https://dev.to/jhonoryza)
+- [twitter](https://twitter.com/jardik7)
+- [linkedin](https://www.linkedin.com/in/fajar-sidik-priatna-8b31a788/)
+- [youtube](https://www.youtube.com/channel/UCwHy_Tkd7yc_24XlsTrnrNA)
+- [googleplay](https://play.google.com/store/apps/dev?id=9101982290652990628)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jhonoryza&count_private=true&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonoryza&layout=compact)
