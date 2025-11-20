@@ -62,7 +62,7 @@ here is my [portofio](https://labkita.my.id/engineers)
 | [monolith todoapps rest api](https://github.com/jhonoryza/sveltekit-todoapps-api)  | example app monolith with sveltekit                | js       | sveltekit, mysql              |
 | [Laravel Daisy UI](https://github.com/jhonoryza/daisyui-admin-panel)               | example app using laravel with daisy ui            | php      | laravel                       |
 | [nest deno](https://github.com/jhonoryza/nest-deno)                                | example app using deno 2.0 with nestjs             | js       | deno, nestjs                  |
-
+| [personal note about tech](https://github.com/jhonoryza/markdown-notes)            | laravel read and render from markdown              | php      | laravel                       |
 ### learning
 
 #### backend
@@ -105,10 +105,10 @@ here is my [portofio](https://labkita.my.id/engineers)
 - [stream bridge adapter](https://github.com/jhonoryza/backend-assignments-bridge)
 - [rest api nestjs](https://github.com/jhonoryza/backend-assignments-nestjs)
 
-### 📘 notes
-- [personal note about tech](https://github.com/jhonoryza/markdown-notes)
+### poc
+- [judgeapi](https://github.com/jhonoryza/poc-judgeapi)
 
-### 📚 docs
+### docs
 - [filament suitcms docs](https://github.com/jhonoryza/filament-suitcms-plugin-docs)
 - [skeleton docs](https://github.com/jhonoryza/template-docs-vitepress)
 - [skeleton docs](https://github.com/jhonoryza/template-docs.git) 
