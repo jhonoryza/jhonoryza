@@ -50,12 +50,13 @@ here is my [portofio](https://labkita.my.id/engineers)
 | name                                                                               | description                                        | language | stack                         |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ----------------------------- |
 | [nestjs base repo](https://github.com/jhonoryza/nestjs-base-repo)                  | nestjs base repository                             | ts       | nestjs                        |
-| [go api gateway](https://github.com/jhonoryza/go-api-gateway)                      | create api gateway using go                        | go       | go                            |
-| [go chat mercurehub](https://github.com/jhonoryza/go-chat-mercurehub)              | go api to receive send chat and publish to mercure | go       | go                            |
+| [go api auth](https://github.com/jhonoryza/go-api-auth)                            | auth api                                           | go       | go                            |
+| [go api gateway](https://github.com/jhonoryza/go-api-gateway)                      | gateway api                                        | go       | go                            |
+| [go api chat](https://github.com/jhonoryza/go-chat-mercurehub)                     | chat api and publish to mercurehub                 | go       | go                            |
+| [go api blog](https://github.com/jhonoryza/golang-blog-api)                        | api blog                                           | go       | postgres                      |
 | [react labkita web](https://github.com/jhonoryza/nextjs-labkita-web)               | frontend for labkita web                           | js       | react nextjs                  |
 | [nuxt blog](https://github.com/jhonoryza/nuxt-blog)                                | frontend for personal blog                         | js       | nuxt                          |
 | [vue blog](https://github.com/jhonoryza/vue-blog)                                  | frontend for personal blog                         | js       | vue                           |
-| [golang blog api](https://github.com/jhonoryza/golang-blog-api)                    | backend for personal blog                          | go       | postgres                      |
 | [monolith laravel blog](https://github.com/jhonoryza/laravel-filament-blog)        | monolith for personal blog                         | php      | laravel, filament, postgres   |
 | [monolith golang blog](https://github.com/jhonoryza/golang-fiber-blog-api)         | monolith for personal blog                         | go       | fiber, inertia, vue, postgres |
 | [frontend svelte](https://github.com/jhonoryza/svelte-labkita-landingpage)         | for personal landing page                          | js       | svelte                        |
