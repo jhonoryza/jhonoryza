@@ -49,7 +49,7 @@ here is my [portofio](https://labkita.my.id/engineers)
 
 | name                                                                               | description                                        | language | stack                         |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ----------------------------- |
-| [nestjs base repo](https://github.com/jhonoryza/nestjs-base-repo)                  | nestjs base repository                             | ts       | nestjs                        |
+| [nestjs base express](https://github.com/jhonoryza/nestjs-base-express)            | nestjs base repository                             | ts       | nestjs                        |
 | [go api auth](https://github.com/jhonoryza/go-api-auth)                            | auth api                                           | go       | go                            |
 | [go api gateway](https://github.com/jhonoryza/go-api-gateway)                      | gateway api                                        | go       | go                            |
 | [go api chat](https://github.com/jhonoryza/go-chat-mercurehub)                     | chat api and publish to mercurehub                 | go       | go                            |
