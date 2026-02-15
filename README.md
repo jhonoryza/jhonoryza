@@ -49,6 +49,7 @@ here is my [portofio](https://labkita.my.id/engineers)
 
 | name                                                                               | description                                        | language | stack                         |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ----------------------------- |
+| [nestjs base repo](https://github.com/jhonoryza/nestjs-base-repo)                  | nestjs base repository                             | ts       | nestjs                        |
 | [go api gateway](https://github.com/jhonoryza/go-api-gateway)                      | create api gateway using go                        | go       | go                            |
 | [go chat mercurehub](https://github.com/jhonoryza/go-chat-mercurehub)              | go api to receive send chat and publish to mercure | go       | go                            |
 | [react labkita web](https://github.com/jhonoryza/nextjs-labkita-web)               | frontend for labkita web                           | js       | react nextjs                  |
@@ -106,6 +107,8 @@ here is my [portofio](https://labkita.my.id/engineers)
 ### assignments
 - [stream bridge adapter](https://github.com/jhonoryza/backend-assignments-bridge)
 - [rest api nestjs](https://github.com/jhonoryza/backend-assignments-nestjs)
+- [reactjs patient record system](https://github.com/jhonoryza/reactjs-patient-record)
+- [nestjs patient record system](https://github.com/jhonoryza/nestjs-patient-record)
 
 ### poc
 - [judgeapi](https://github.com/jhonoryza/poc-judgeapi)
