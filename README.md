@@ -106,10 +106,11 @@ here is my [portofio](https://labkita.my.id/engineers)
 - [dns manager bind9](https://github.com/jhonoryza/bind9-docker)
 
 ### assignments
-- [stream bridge adapter](https://github.com/jhonoryza/backend-assignments-bridge)
-- [rest api nestjs](https://github.com/jhonoryza/backend-assignments-nestjs)
-- [reactjs patient record system](https://github.com/jhonoryza/reactjs-patient-record)
-- [nestjs patient record system](https://github.com/jhonoryza/nestjs-patient-record)
+- [Nodejs & Python Bridge](https://github.com/jhonoryza/backend-assignments-bridge)
+- [Nestjs REST API Gift Management](https://github.com/jhonoryza/backend-assignments-nestjs)
+- [Reactjs Patient Record](https://github.com/jhonoryza/reactjs-patient-record)
+- [Nestjs Patient Record](https://github.com/jhonoryza/nestjs-patient-record)
+- [Go REST API Task Management](https://github.com/jhonoryza/go-api-task-man)
 
 ### poc
 - [judgeapi](https://github.com/jhonoryza/poc-judgeapi)
